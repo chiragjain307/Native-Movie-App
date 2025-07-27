@@ -10,7 +10,7 @@ const Index: React.FC = () => {
         justifyContent: 'center',
         height: '100%'
       }}>
-      <Text className=" text-2xl text-red-500">Welcome hello</Text>
+      <Text className=" text-2xl text-red-500">Welcome hello new</Text>
     </View>
   );
 }
